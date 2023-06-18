@@ -1,0 +1,12 @@
+Visually challenged people face great difficulty in doing essential activities in everyday life.
+Traditional cane type devices help them. 
+Cane type devices are difficult to use and handle. 
+We aim to design a handheld device instead of cane type device.
+We are developing this device considering that they are only blind and not deaf. 
+Visually challenged people to get all the inputs by hearing and sensing.
+So, the device is designed so that the person can predict the output by two different ways, wired headset and buzzer.
+We have interfaced ATMEGA328p with various kinds of sensors on our own designed and fabricated PCB Board.
+The use of Printed Circuit Board increases life time, mechanically supported electrically connected circuit connections reduces wire joints, makes the device compact and durable.
+Sensors include LIDAR Sensor, Ultrasonic sensor, DHT11 Sensor. LIDAR sensor accurately senses 0.2m to 8m with 90% reflectivity.
+Coming to the battery and charging, we use the battery for the power supply.
+The wired headset is used to notified the instruction to the user through voice.
